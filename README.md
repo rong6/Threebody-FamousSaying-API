@@ -1,7 +1,7 @@
 # Threebody-FamousSaying-API
 一个三体名言的一言API，由PHP编写。      
               
-[Demo](https://rong6.woan.link/api/threebody) • [完善语录](1)              
+[Demo](https://rong6.woan.link/api/threebody) • [完善语录](#1)              
 
 ## 部署
 首先，请确保你有**PHP环境**，接着，将此项目的文件直接放入文件夹中，访问你的域名/IP即可。   
